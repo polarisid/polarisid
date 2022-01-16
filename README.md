@@ -3,7 +3,9 @@
 Vivendo intensamente desde 1997
 Sou amante da tecnologia e sua aplicações, meu objetivo é  alcançar a maestria naquilo que me proponho a fazer.
 ### A Little About Me ... I'm Always Looking for Constant Challenges ... 🔭
-Currently studying and improving myself in Full stack (React JS, NodeJs, WebPack, StyledComponents and more)
+Currently studying and improving myself in Full stack (ReactJS, NodeJs, WebPack, StyledComponents and more)
+
+Working to change my life and transform lives wherever I go
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=polarisid&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=polarisid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
