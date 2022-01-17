@@ -1,7 +1,9 @@
-### Olá mundo 👋
+### Hello Universe 👋
 [![wakatime](https://wakatime.com/badge/user/a9d56b74-8de5-409a-8823-893706115b81.svg)](https://wakatime.com/@a9d56b74-8de5-409a-8823-893706115b81)<br/>
-Vivendo intensamente desde 1997
-Sou amante da tecnologia e sua aplicações, meu objetivo é  alcançar a maestria naquilo que me proponho a fazer.
+
+Living intensely since 1997
+I am a lover of technology and its applications, my goal is to achieve mastery in what I propose to do.
+
 ### A Little About Me ... I'm Always Looking for Constant Challenges ... 🔭
 Currently studying and improving myself in Full stack (ReactJS, NodeJs, WebPack, StyledComponents and more)
 
