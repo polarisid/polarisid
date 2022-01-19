@@ -10,9 +10,8 @@ Currently studying and improving myself in Full stack (ReactJS, NodeJs, WebPack,
 Working to change my life and transform lives wherever I go
 <div align="center">
     <img height="205em" alt="polarisid stats" src="https://github-readme-stats.vercel.app/api?username=polarisid&show_icons=true" />
-        <img height="205em" alt="polarisid stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarisid&layout=compact" />
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=polarisid&show_icons=true) 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=polarisid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <img height="205em" alt="polarisid stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarisid&layout=compact" />
+
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
