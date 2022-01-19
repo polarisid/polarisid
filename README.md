@@ -8,9 +8,10 @@ I am a lover of technology and its applications, my goal is to achieve mastery i
 Currently studying and improving myself in Full stack (ReactJS, NodeJs, WebPack, StyledComponents and more)
 
 Working to change my life and transform lives wherever I go
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=polarisid&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=polarisid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=polarisid&show_icons=true) 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=polarisid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danielcarvalhoribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielcarvalhoribeiro" height="30" width="40" /></a>
