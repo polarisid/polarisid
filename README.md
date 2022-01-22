@@ -16,9 +16,8 @@ Working to change my life and transform lives wherever I go
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="mailto:danielcarvalhorst@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/9157833/30037357-09563f5e-9188-11e7-9989-c708c4fc6f29.png" alt="danielcarvalhoribeiro" height="30" width="40" /></a>
+ <a href="mailto:danielcarvalhorst@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/ff135601bb8801c52d73ddac1e4edb26e89cf494122d21c18864e282f8e62a29/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37652f476d61696c5f69636f6e5f253238323032302532392e7376672f35313270782d476d61696c5f69636f6e5f253238323032302532392e7376672e706e67" alt="danielcarvalhoribeiro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danielcarvalhoribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielcarvalhoribeiro" height="30" width="40" /></a>
-    
 <a href="https://instagram.com/riotint0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riotint0" height="30" width="40" /></a>
 <a href="https://discord.gg/danielCR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="danielCR" height="30" width="40" /></a>
 </p>
