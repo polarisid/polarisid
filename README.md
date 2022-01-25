@@ -5,9 +5,9 @@ Living intensely since 1997
 I am a lover of technology and its applications, my goal is to achieve mastery in what I propose to do.
 
 ### A Little About Me ... I'm Always Looking for Constant Challenges ... 🔭
-Currently studying and improving myself in Full stack (ReactJS, NodeJs, WebPack, StyledComponents and more).<br>
-Breathing technology.<br>
-Working to change my life and transform lives wherever I go
+- Currently studying and improving myself in Full stack (ReactJS, NodeJs, WebPack, StyledComponents and more).<br>
+- Breathing technology.<br>
+- Working to change my life and transform lives wherever I go
 <div align="center">
     <img height="205em" alt="polarisid stats" src="https://github-readme-stats.vercel.app/api?username=polarisid&show_icons=true" />
     <img height="205em" alt="polarisid stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarisid&layout=compact" />
