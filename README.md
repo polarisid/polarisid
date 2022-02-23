@@ -64,7 +64,7 @@ I am a lover of technology and its applications, my goal is to achieve mastery i
     </a> 
 </p>
 
- 
+ c 
 <!---
 polarisid/polarisid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
