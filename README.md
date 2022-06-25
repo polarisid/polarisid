@@ -8,11 +8,22 @@ I am a lover of technology and its applications, my goal is to achieve mastery i
 - Currently studying and improving myself in Full stack (ReactJS, NodeJs, WebPack, StyledComponents and more).<br>
 - Breathing technology.<br>
 - Working to change my life and transform lives wherever i go
-<div align="center">
-    <img height="205em" alt="polarisid stats" src="https://github-readme-stats.vercel.app/api?username=polarisid&show_icons=true" />
-    <img height="205em" alt="polarisid stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarisid&layout=compact" />
 
-</div>
+----
+<details>
+  <summary>GitHub Stats</summary>
+<a  href="https://github.com/polarisid">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=polarisid&show_icons=true">
+</a>
+</details>
+<details>
+  <summary>Most Used Languages</summary>
+
+<a  href="https://github.com/polarisid">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarisid&layout=compact">
+</a>
+</details>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="mailto:danielcarvalhorst@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/ff135601bb8801c52d73ddac1e4edb26e89cf494122d21c18864e282f8e62a29/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37652f476d61696c5f69636f6e5f253238323032302532392e7376672f35313270782d476d61696c5f69636f6e5f253238323032302532392e7376672e706e67" alt="danielcarvalhoribeiro" height="30" width="40" /></a>
