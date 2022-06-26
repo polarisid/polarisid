@@ -24,13 +24,18 @@ I am a lover of technology and its applications, my goal is to achieve mastery i
 </a>
 </details>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## ⚡ Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielcarvalhorst@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dqcqri)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielcarvalhoribeiro)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5598987132829&text=Hello%20from%20%20github)
+<!-- <p align="left">
  <a href="mailto:danielcarvalhorst@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/ff135601bb8801c52d73ddac1e4edb26e89cf494122d21c18864e282f8e62a29/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37652f476d61696c5f69636f6e5f253238323032302532392e7376672f35313270782d476d61696c5f69636f6e5f253238323032302532392e7376672e706e67" alt="danielcarvalhoribeiro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danielcarvalhoribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielcarvalhoribeiro" height="30" width="40" /></a>
 <a href="https://instagram.com/riotint0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riotint0" height="30" width="40" /></a>
 <a href="https://discord.gg/danielCR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="danielCR" height="30" width="40" /></a>
-</p>
+</p> -->
 
 ## ⚡ Technologies
 
