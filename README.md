@@ -13,7 +13,7 @@ I am a lover of technology and its applications, my goal is to achieve mastery i
 <details>
   <summary>GitHub Stats</summary>
 <a  href="https://github.com/polarisid">
-  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=polarisid&show_icons=true">
+  <img style="center"  height="180em"  src="https://github-readme-stats.vercel.app/api?username=polarisid&show_icons=true">
 </a>
 </details>
 <details>
@@ -25,11 +25,10 @@ I am a lover of technology and its applications, my goal is to achieve mastery i
 </details>
 
 ## ⚡ Connect with me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielcarvalhorst@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dqcqri)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielcarvalhoribeiro)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5598987132829&text=Hello%20from%20%20github)
+[![Gmail Badge](https://img.shields.io/badge/-danielcarvalhorst@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielcarvalhorst@gmail.com)](danielcarvalhorst@gmail.com)
+[![Instagram](https://img.shields.io/badge/-dqcqri-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dqcqri/)](https://instagram.com/dqcqri)
+[![Linkedin](https://img.shields.io/badge/-danielcarvalhoribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcarvalhoribeiro/)](https://www.linkedin.com/in/danielcarvalhoribeiro/)
+[![WhatsApp](https://img.shields.io/badge/-55%2098%20987132829-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5598987132829&text=Hello%20from%20%20github)
 
 
 ## ⚡ Technologies
@@ -68,4 +67,5 @@ I am a lover of technology and its applications, my goal is to achieve mastery i
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 -->
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=polarisid) -->
+
 [![wakatime](https://wakatime.com/badge/user/a9d56b74-8de5-409a-8823-893706115b81.svg)](https://wakatime.com/@a9d56b74-8de5-409a-8823-893706115b81)<br/>
