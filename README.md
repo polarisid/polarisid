@@ -1,14 +1,14 @@
 ### Hello Universe 👋
 
 
-Living intensely since 1997
+Living intensely since 1997 
 I am a lover of technology and its applications, my goal is to achieve mastery in what I propose to do.
 
 ### A Little About Me ... I'm Always Looking for Constant Challenges ... 🔭
 - Currently studying and improving myself in Full stack (ReactJS, NodeJs, WebPack, StyledComponents and more).<br>
 - Breathing technology.<br>
 - Working to change my life and transform lives wherever i go
-
+- Better than before
 ----
 <details>
   <summary>GitHub Stats</summary>
