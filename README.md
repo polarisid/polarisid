@@ -9,7 +9,6 @@ I am a lover of technology and its applications, my goal is to achieve mastery i
 - Breathing technology.<br>
 - Working to change my life and transform lives wherever i go
 - Better than before
-
 ----
 <details>
   <summary>GitHub Stats</summary>
