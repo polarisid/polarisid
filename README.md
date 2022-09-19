@@ -26,7 +26,6 @@ I am a lover of technology and its applications, my goal is to achieve mastery i
 
 ## ⚡ Connect with me
 [![Gmail Badge](https://img.shields.io/badge/-danielcarvalhorst@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielcarvalhorst@gmail.com)](danielcarvalhorst@gmail.com)
-[![Instagram](https://img.shields.io/badge/-dqcqri-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dqcqri/)](https://instagram.com/dqcqri)
 [![Linkedin](https://img.shields.io/badge/-danielcarvalhoribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcarvalhoribeiro/)](https://www.linkedin.com/in/danielcarvalhoribeiro/)
 [![WhatsApp](https://img.shields.io/badge/-55%2098%20987132829-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5598987132829&text=Hello%20from%20%20github)
 
